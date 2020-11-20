@@ -9,9 +9,6 @@ package uc_test;
  *
  * @author Develop
  */
-public class ChlidClass extends ParentClass{
+public class Clase1 {
     
-    public void Print(){
-        System.out.println(valor2);
-    }
 }
